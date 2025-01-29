@@ -1,5 +1,5 @@
 {
-  "allowed": true,
+  "allowed": false,
   "allowList": [
     "license:a5548de2dbea8d15a040142585337c997787e0ba",
     "license:a23a373aff7484117b185f963d389891e6aeb4c3"
